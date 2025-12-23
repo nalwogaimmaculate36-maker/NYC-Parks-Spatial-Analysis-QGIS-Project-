@@ -1,0 +1,44 @@
+#  Urban Mobility & Tree Census Mapping (QGIS Projects)
+
+##  Overview
+This repository includes two QGIS-based spatial analysis projects focused on New York City:
+
+1. **Network Analysis of Bike Routes**  
+2. **Web Map of Refactored Tree Census Data**
+
+
+##  Project 1: Safest Bike Routes (Network Analysis)
+
+### Methodology
+- Created a new shapefile layer: `Bike_Points.shp`
+- Plotted 3 custom points across Manhattan
+- Used QGIS’s **Shortest Path (Point to Layer)** tool
+- Set advanced parameters:
+  - Default speed: 50 km/h
+  - Start point: manually selected
+- Output: calculated optimal paths across NYC’s bike route network
+
+### Output
+- Map showing safest rideable paths
+- Demonstrates spatial network modeling and urban mobility analysis
+
+
+## \ Project 2: NYC Tree Census Web Map
+
+### Methodology
+- Cleaned and refactored NYC tree census data
+- Styled tree points by species and density
+- Exported interactive web map using **qgis2web (Leaflet)**
+- Focused on Central Park and surrounding neighborhoods
+
+### Output
+- Web map with spatial markers, basemap, and tree distribution
+- Demonstrates environmental data visualization and urban green-space analysis
+
+
+##  Skills Demonstrated
+- QGIS spatial analysis  
+- Network modeling (Shortest Path)  
+- Web map creation (qgis2web)  
+- Data cleaning and styling  
+- Urban planning and environmental interpretation
