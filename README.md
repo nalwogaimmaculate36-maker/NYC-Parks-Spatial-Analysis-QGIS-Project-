@@ -64,6 +64,9 @@ The final map visualizes:
 ## 📬 Contact
 For collaboration or inquiries:
 email - nalwogaimmaculate36@gmail.com
+
 linkedIn - www.linkedin.com/in/nalwoga-immaculate-ba6899318
+
 Portfolio - https://nalwogaimmaculate3.wixsite.com/immy-1
+
 GIS • MEL • Data Analysis  
